@@ -251,6 +251,8 @@ A avaliação é contínua e multifacetada, com um forte componente de feedback 
 
 ## 8. Atividades
 
+Leitura Complementar:
 https://github.com/Robson-Akoma/EducaIA/commit/b9817575132447b5e12b81904d29828d91a46cbd
 
+Atividade Gamificada:
 https://wordwall.net/pt/resource/106429156/compet%C3%AAncias-para-a-%C3%A1rea-de-gastronomia-aula-interativa
